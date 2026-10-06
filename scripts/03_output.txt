@@ -1,0 +1,12 @@
+Executing 03_statistical_analysis.py...
+Loaded industry data with 4668 records.
+
+--- Correlation Analysis ---
+Correlation heatmap generated at ..\visualizations\industry\correlation_heatmap.png
+
+--- Hypothesis Testing ---
+H₀: There is no statistically significant linear relationship between Operating Profit Margin (OPM) and ROE.
+H₁: There is a statistically significant linear relationship between Operating Profit Margin (OPM) and ROE.
+
+Pearson Correlation: 0.0761
+Statistically significant (p = 0.0000 < 0.05). Reject H0.

@@ -1,0 +1,30 @@
+Executing 05_final_insights.py...
+=========================================================
+             FINAL INSIGHTS & SYNTHESIS                  
+=========================================================
+
+1. Financial Performance
+   - Revenue and PAT trends (see visualizations).
+   - Net Profit Margin analysis indicates business efficiency over the period.
+
+2. Financial Health
+   - Liquidity (Current Ratio) and Leverage (Debt-to-Equity) trends.
+   - Return metrics (ROE/ROA) provide a picture of shareholder value generation.
+
+3. Cash Generation
+   - Operating Cash Flow (OCF) supports the reported PAT.
+   - Free Cash Flow (FCF) shows capital available after expenditures.
+
+4. Industry Position
+   - Benchmarking against peers reveals Infosys's relative standing in profitability and efficiency.
+
+5. Statistical Findings
+   - The correlation between Operating Income and PAT was computed and tested for significance.
+   - The linear regression model evaluated predictive power (R²) and error (RMSE, MAE).
+
+6. Final Conclusion
+   - The data indicates a consistent operational performance with [placeholder for actual conclusion based on script outputs].
+=========================================================
+
+--- Generating Static Dashboard ---
+Dashboard saved to ..\reports\dashboard\final_dashboard.png

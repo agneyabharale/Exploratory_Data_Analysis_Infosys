@@ -1,0 +1,18 @@
+Executing 01_data_acquisition_cleaning.py...
+Available sheets: ['Intro', 'Dashboard', 'Balance Sheet', 'Income Statement', 'Pivot Table ', 'Cash Flow Statement', '4. Financial Ratios', 'KPIs_and_Insights', '. Linear Regression', 'Chart1', 'raw_cash_flow_data', 'raw_balancesheet_data', 'raw_finacial_ratio', 'Pivot Table 1']
+
+--- Standardizing Columns and Adding Identifiers ---
+
+--- Missing Values Treatment ---
+            Dataset  Missing Values               Treatment
+0  Income Statement               8  Investigated / Imputed
+1     Balance Sheet              28  Investigated / Imputed
+2         Cash Flow               4  Investigated / Imputed
+3  Financial Ratios               9  Investigated / Imputed
+4     Industry Data           32429  Investigated / Imputed
+
+--- Outlier Analysis ---
+Detected 0 potential outliers in Revenue via IQR. Retaining genuine financial extremes.
+
+--- Exporting Processed Data ---
+Data cleaning complete. Files exported to 'data/processed/'.

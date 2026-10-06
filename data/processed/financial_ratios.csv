@@ -1,0 +1,20 @@
+company,ratio,,,,
+Infosys,Current Ratio,2.398,2.06,1.426,1.388
+Infosys,Debt to Equity,0.423,0.549,1.146,1.198
+Infosys,Net Profit Margin,0.182,0.164,0.171,0.186
+Infosys,Return on Assets (ROA),0.25,0.276,0.281,0.307
+Infosys,Return on Equity (ROE),0.4,0.492,0.705,0.792
+Infosys,EBITDA Margin,0.296,0.293,0.295,0.293
+Infosys,Gross Margin,0.331,0.329,0.33,0.336
+Infosys,Operating Margin,0.25,0.246,0.245,0.249
+Infosys,,,,,
+Infosys,"Ratio Formulas Used:
+1. Current Ratio = Total Current Assets / Total Current Liabilities
+2. Debt to Equity = Total Current Liabilities / Total Equity
+3. Net Profit Margin = Profit After Tax / Total Revenue
+4. Return on Assets (ROA) = Profit After Tax / Total Assets
+5. Return on Equity (ROE) = Profit After Tax / Total Equity
+6. EBITDA Margin = EBITDA / Total Revenue
+7. Gross Margin = Gross Profit / Total Revenue
+8. Operating Margin = Operating Income / Total Revenue
+",,,,

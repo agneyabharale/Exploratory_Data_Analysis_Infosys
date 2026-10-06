@@ -1,0 +1,9 @@
+company,year,revenue,cost_of_revenue_(operating_costs),gross_profit,operating_expenses_(sg&a_overhead),operating_income_(ebit),other_income,interest_expense_/_finance_costs,profit_before_tax_(pbt),tax_expense,net_profit,,"income_statement_formulas_used:
+1._gross_profit_=_revenue___cost_of_revenue
+2._operating_income_=_gross_profit___operating_expenses
+3._profit_before_tax_=_operating_income_+_other_income___interest_expense
+4._profit_after_tax_=_profit_before_tax___tax_expense"
+Infosys,2022,121641.0,81420.0,40221.0,9820.0,30401.0,2095.0,200.0,32296.0,10186.0,22110.0,,
+Infosys,2023,146767.0,98510.0,48257.0,12110.0,36147.0,2701.0,284.0,38564.0,14454.0,24110.0,,
+Infosys,2024,153670.0,102890.0,50780.0,13120.0,37660.0,3120.0,340.0,40440.0,14200.0,26240.0,,
+Infosys,2025,162900.0,108128.0,54772.0,14250.0,40522.0,3337.0,360.0,43499.0,13128.0,30371.0,,

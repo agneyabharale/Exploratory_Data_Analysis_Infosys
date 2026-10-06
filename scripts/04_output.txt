@@ -1,0 +1,27 @@
+Executing 04_regression.py...
+Industry data loaded.
+
+--- Data Prep & Train/Test Split ---
+Training set size: 2697 | Testing set size: 675
+
+--- Model Training & Metrics ---
+Regression Metrics:
+  R2: 0.004622411077132127
+  MAE: 9.594373375836089
+  MSE: 205.29370643498834
+  RMSE: 14.328074065797828
+  Coefficient: 0.0028689639819936023
+  Intercept: 8.0006091448962
+  P-Value (opm_5year): 5.1611033174474247e-05
+
+--- Visualizations ---
+Saved regression plot to ..\visualizations\regression\regression_line.png
+Saved residuals plot to ..\visualizations\regression\residuals.png
+
+--- Model Limitations ---
+- Linearity Assumption: Linear regression assumes a strict linear relationship.
+- Comparability: Industry/company observations may not be perfectly comparable.
+- Scale & Outliers: Financial data can contain extreme scale differences.
+- Causation: A strong correlation (R²) does not necessarily imply causation.
+- Dataset Size: The model's predictive performance depends heavily on the quality of the industry dataset.
+- Variance: Train/test split results may vary depending on the chosen random state.

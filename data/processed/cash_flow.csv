@@ -1,0 +1,7 @@
+company,year,net_income_(profit_after_tax),interest_expense,depreciation_&_amortization,ebitda,operating_cash_flow,net_cash_from_investing_activities,net_cash_from_financing_activities,net_change_in_cash,opening_cash_&_cash_equivalents,closing_cash_&_cash_equivalents,"cash_flow_formulas_used:
+1._net_change_in_cash_=_operating_cash_flow_+_investing_cash_flow_+_financing_cash_flow
+2._closing_cash_=_net_change_in_cash_+_opening_cash"
+Infosys,2022-03-31,22110.0,200.0,3476.0,35972.0,24960.0,-6120.0,-20150.0,-1310.0,18782.0,17472.0,
+Infosys,2023-03-31,24110.0,284.0,4225.0,43073.0,23120.0,-3850.0,-5299.0,13971.0,17472.0,31443.0,
+Infosys,2024-03-31,26240.0,340.0,4610.0,45390.0,27850.0,-4120.0,-21783.0,1947.0,12173.0,14120.0,
+Infosys,2025-03-31,30371.0,360.0,3913.0,47772.0,28400.0,-4800.0,-24420.0,-820.0,14120.0,13300.0,
