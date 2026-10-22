@@ -3,8 +3,9 @@ import numpy as np
 import sys
 import os
 
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'src')))
-import data_cleaning as dc
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+from src import data_cleaning as dc
 
 def main():
     raw_data_path = os.path.join('..', 'data', 'raw', 'Project.xlsx')
